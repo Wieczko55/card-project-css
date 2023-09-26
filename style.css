@@ -107,5 +107,5 @@ button
 }
 button:focus
 {
-    content: 'chuj';
+    content: 'hello';
 }
